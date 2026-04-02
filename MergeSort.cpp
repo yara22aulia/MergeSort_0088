@@ -6,7 +6,8 @@ int arr[20], B[20];
 // n is array input size
 int n;
 
-void input()
+void input(
+)
 {
     while (true)
     {
