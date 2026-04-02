@@ -105,9 +105,11 @@ void output(
     cout << endl;
 }
 
-int main()
+int main(
+)
 {
-    input();
+    input(
+    );
     mergeSort(0, n - 1);
     output();
 
